@@ -53,7 +53,7 @@
 ## 技术栈
  - python (熟练)
  - opencv2 (入门，基本图像处理)
- - numpy (熟练，会熟练转换数据结构)，pandas
+ - numpy ，pandas，matpyplotlib(数据分析三剑客)，scikit-learn（百宝箱）
  - torch（熟练）
  - github (常逛，会用)
  - 神经网络基础
