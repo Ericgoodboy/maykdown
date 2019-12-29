@@ -51,13 +51,13 @@
     11. 停止训练之后，用验证集进行验证，操作方式同训练集，通过结果来判断优化模型的方向
     12. 获取最佳模型，优化结束
 ## 技术栈
- - python (熟练)
- - opencv2 (入门，基本图像处理)
- - numpy ，pandas，matpyplotlib(数据分析三剑客)，scikit-learn（百宝箱）
- - torch（熟练）
- - github (常逛，会用)
- - 神经网络基础
- - cnn
- - rcnn
+ - python (熟练) ***bilibili 小甲鱼看前50集后面的没必要***
+ - opencv2 (入门，基本图像处理) ***<>***
+ - numpy ，pandas，matpyplotlib(数据分析三剑客)，scikit-learn（百宝箱）***看B站莫凡的视频，虽然是个龅牙但是讲的不错，搜numpy就行，它出的工具类的视频都不错***
+ - torch（熟练） ***https://github.com/INTERMT/Awesome-PyTorch-Chinese 看完Python基础再学***
+ - github (常逛，会用)***建议最先学***
+ - 神经网络基础 ***加你网盘好友，分享给你***
+ - cnn ***上一种项会讲***
+ - rcnn ***看完上面的你会知道怎么来了解一格新的网络结构，了解其他类型的框架都是有个道理***
  - faster-rcnn(逐渐了解)
  - 不是一天能学完的，所以，别急一点点来
