@@ -52,7 +52,7 @@
     12. 获取最佳模型，优化结束
 ## 技术栈
  - python (熟练) ***bilibili 小甲鱼看前50集后面的没必要***
- - opencv2 (入门，基本图像处理) ***<>***
+ - opencv2 (入门，基本图像处理) ***av51238267 课程内容很多，没兴趣的话可以挑图像变换方面写***
  - numpy ，pandas，matpyplotlib(数据分析三剑客)，scikit-learn（百宝箱）***看B站莫凡的视频，虽然是个龅牙但是讲的不错，搜numpy就行，它出的工具类的视频都不错***
  - torch（熟练） ***https://github.com/INTERMT/Awesome-PyTorch-Chinese 看完Python基础再学***
  - github (常逛，会用)***建议最先学***
