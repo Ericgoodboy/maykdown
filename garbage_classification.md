@@ -72,5 +72,6 @@
  - faster-rcnn(逐渐了解)
  - 不是一天能学完的，所以，别急一点点来
  ## faster-rnn 网络结构解析：
-- 简化项目:  https://www.github.com/Ericgoodboy/faster_rcnn   
+- 简化项目:  https://www.github.com/Ericgoodboy/faster_rcnn  
+- 特征提取结构:vgg16(参数大小500+M)可怕，考虑用更小的vggnet替代（效果会变差，头大）>_<
 - 待更新...
