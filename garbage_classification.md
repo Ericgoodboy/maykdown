@@ -75,3 +75,5 @@
 - 简化项目:  https://www.github.com/Ericgoodboy/faster_rcnn  
 - 特征提取结构:vgg16(参数大小500+M)可怕，考虑用更小的vggnet替代（效果会变差，头大）>_<
 - 待更新...
+- 这结构也太复杂了，看了半天还没搞明白前项传播
+
